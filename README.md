@@ -1,4 +1,4 @@
-# Text-Translation
+# Text-Translation Model
 Project for Translating English to French
 # Text Translation 
 
