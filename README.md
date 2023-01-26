@@ -1,5 +1,5 @@
 # Text-Translation Model
-Project for Translating English to French
+Project for Translating Text from English to French
 # Text Translation 
 
 It is an NLP task that convert converts a sequence of text from one language to another. Typically, translation systems are used for translating texts between different languages, but they can also be used for translating speech, using text-to-speech or speech-to-text techniques. 
